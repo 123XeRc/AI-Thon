@@ -19,8 +19,8 @@ DATA_DIR = "data"
 SQL_FILE = "sql/schema.sql"
 
 # Azure Config (Replace with env vars or actual keys in production)
-AZURE_ENDPOINT = os.getenv("AZURE_OPENAI_ENDPOINT", "https://manisha-malpani.openai.azure.com/")
-AZURE_API_KEY = os.getenv("AZURE_OPENAI_API_KEY", "yVOrDGE76UJaZJgZzCywA7Mj4WSP2Auqrh0AlY4mN5oPvJ37IXU8JQQJ99BHACHYHv6XJ3w3AAABACOGrvsz")
+AZURE_ENDPOINT = os.getenv("AZURE_OPENAI_ENDPOINT")
+AZURE_API_KEY = os.getenv("AZURE_OPENAI_API_KEY")
 API_VERSION = "2023-05-15"
 DEPLOYMENT_NAME = "text-embedding-3-large"
 
