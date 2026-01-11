@@ -49,6 +49,7 @@ OUTPUT RULES:
 OUTPUT FORMAT:
 {{
   "overspending_categories": [<mentioned the categories>],
+  "analysis": ["short descriptive explanation for each overspending category"],
   "recommendations": [<recommendations>]
 }}
 
@@ -62,6 +63,6 @@ User Budget:
 Transactions:
 {transactions}
 
-Analyze spending and return overspending categories with recommendations.
+Analyze spending and return overspending categories with analysis and recommendations.
 
 """
