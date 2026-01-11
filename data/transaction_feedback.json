@@ -1,0 +1,1402 @@
+[
+  {
+    "transaction_id": "9b655832-9a84-4cfe-a996-8818109faab4",
+    "old_category": "Utilities",
+    "new_category": "Insurance",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.598955"
+  },
+  {
+    "transaction_id": "3e6b2cfe-735d-4683-aafa-1a7b88b3b75b",
+    "old_category": "Travel & Transport",
+    "new_category": "Food & Dining",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.598968"
+  },
+  {
+    "transaction_id": "37b71baa-8159-4a50-8de9-7ce98774e545",
+    "old_category": "Office & Business",
+    "new_category": "Groceries",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.598973"
+  },
+  {
+    "transaction_id": "c668dc79-2665-4973-ab3d-4413fbc81b6f",
+    "old_category": "Groceries",
+    "new_category": "Charity",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.598977"
+  },
+  {
+    "transaction_id": "329cf676-7137-4e57-9549-723c5700bc7b",
+    "old_category": "Transfers",
+    "new_category": "Education",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.598981"
+  },
+  {
+    "transaction_id": "9bd33522-6fab-4406-b86a-e905f477005f",
+    "old_category": "Entertainment",
+    "new_category": "Gifts & Donations",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.598985"
+  },
+  {
+    "transaction_id": "e17bcd36-cab7-4b51-a9d2-5388658a1894",
+    "old_category": "Groceries",
+    "new_category": "Insurance",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.598988"
+  },
+  {
+    "transaction_id": "0e95e645-4d65-4759-8e94-4f0bbca4b1ee",
+    "old_category": "Pets",
+    "new_category": "Personal Care",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.598992"
+  },
+  {
+    "transaction_id": "8f60711f-65d0-4cd8-8615-b8d013a9b588",
+    "old_category": "Transfers",
+    "new_category": "Pets",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.598995"
+  },
+  {
+    "transaction_id": "38e811c5-3009-4a3d-865b-6c4c21581987",
+    "old_category": "Health & Wellness",
+    "new_category": "Shopping",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.598999"
+  },
+  {
+    "transaction_id": "e151cc94-8244-4010-abf9-6b82d7adb63a",
+    "old_category": "Transfers",
+    "new_category": "Food & Dining",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599002"
+  },
+  {
+    "transaction_id": "301357ca-e7c6-4091-90e3-343773626faa",
+    "old_category": "Health & Wellness",
+    "new_category": "Office & Business",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599006"
+  },
+  {
+    "transaction_id": "970cdeed-cf16-4089-b237-542000e000cd",
+    "old_category": "Groceries",
+    "new_category": "Pets",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599009"
+  },
+  {
+    "transaction_id": "1ba6825c-f682-4d41-a4b3-ff429fc4e766",
+    "old_category": "Utilities",
+    "new_category": "Investment",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599013"
+  },
+  {
+    "transaction_id": "45f059a5-65b8-4ab9-92eb-c1691b4b0508",
+    "old_category": "Education",
+    "new_category": "Income",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599016"
+  },
+  {
+    "transaction_id": "ed2abfc6-9de0-43e7-b7e9-cac2a8a0716d",
+    "old_category": "Travel & Transport",
+    "new_category": "Kids",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599020"
+  },
+  {
+    "transaction_id": "80a52871-f5d5-4100-be4d-8bf6643db261",
+    "old_category": "Charity",
+    "new_category": "Home Services",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599023"
+  },
+  {
+    "transaction_id": "1d39f688-8b53-4317-a246-773df3b61f30",
+    "old_category": "Shopping",
+    "new_category": "Investment",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599028"
+  },
+  {
+    "transaction_id": "d14026dc-c256-48ed-8cab-8cfd36b7ac42",
+    "old_category": "Travel & Transport",
+    "new_category": "Gifts & Donations",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599034"
+  },
+  {
+    "transaction_id": "9fdebdeb-3bc6-4ed2-be6f-dfb366834364",
+    "old_category": "Food & Dining",
+    "new_category": "Education",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599040"
+  },
+  {
+    "transaction_id": "4bc8cc35-cefa-48c1-840e-da8c46f198f2",
+    "old_category": "Health & Wellness",
+    "new_category": "Entertainment",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599045"
+  },
+  {
+    "transaction_id": "36004f75-7f64-4434-8e9d-1ae0defb8b09",
+    "old_category": "Utilities",
+    "new_category": "Charity",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599052"
+  },
+  {
+    "transaction_id": "32401d48-5b01-4b42-81c1-6edb23c1e38d",
+    "old_category": "Transfers",
+    "new_category": "Gifts & Donations",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599058"
+  },
+  {
+    "transaction_id": "d18df0d5-cf11-4d4c-ba15-20a90b768d1b",
+    "old_category": "Investment",
+    "new_category": "Food & Dining",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599063"
+  },
+  {
+    "transaction_id": "c9e2b806-6a6b-4eb7-8f35-4664668a50f0",
+    "old_category": "Groceries",
+    "new_category": "Health & Wellness",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599073"
+  },
+  {
+    "transaction_id": "bf88ec47-c607-40fe-988c-1828b4df0491",
+    "old_category": "Entertainment",
+    "new_category": "Investment",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599079"
+  },
+  {
+    "transaction_id": "9a084de7-17ff-4744-a5ef-d041ec565963",
+    "old_category": "Pets",
+    "new_category": "Charity",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599082"
+  },
+  {
+    "transaction_id": "ce9d5879-e486-465b-8860-b9edd9b33f9a",
+    "old_category": "Pets",
+    "new_category": "Taxes",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599089"
+  },
+  {
+    "transaction_id": "712b8b62-57f7-4dee-9bb3-9a5d405f54d6",
+    "old_category": "Transfers",
+    "new_category": "Home Services",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599092"
+  },
+  {
+    "transaction_id": "42233b10-a02b-48c3-ad0a-97362c0f3bc0",
+    "old_category": "Groceries",
+    "new_category": "Home Services",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599096"
+  },
+  {
+    "transaction_id": "9d5b499a-e071-47c1-963f-73d8ee831616",
+    "old_category": "Travel & Transport",
+    "new_category": "Investment",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599100"
+  },
+  {
+    "transaction_id": "f738c120-6b4f-4271-a88f-c02aac5b51f5",
+    "old_category": "Education",
+    "new_category": "Shopping",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599103"
+  },
+  {
+    "transaction_id": "15d8184b-f6e3-40c2-8f55-6f998d99d4a7",
+    "old_category": "Travel & Transport",
+    "new_category": "Food & Dining",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599106"
+  },
+  {
+    "transaction_id": "fa0f0dd3-34b0-4389-a7d4-1c707383d9c8",
+    "old_category": "Travel & Transport",
+    "new_category": "Transfers",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599110"
+  },
+  {
+    "transaction_id": "7411a46f-5df0-481a-a55b-bd5d68d4e765",
+    "old_category": "Food & Dining",
+    "new_category": "Investment",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599113"
+  },
+  {
+    "transaction_id": "3533ebae-2579-4695-846e-0911f68bd432",
+    "old_category": "Utilities",
+    "new_category": "Pets",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599117"
+  },
+  {
+    "transaction_id": "6ab5ee89-666c-422d-8d63-7028ff18a550",
+    "old_category": "Utilities",
+    "new_category": "Investment",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599120"
+  },
+  {
+    "transaction_id": "b0f97ea4-ac76-4dd3-9a18-fd355e0a5e6b",
+    "old_category": "Gifts & Donations",
+    "new_category": "Pets",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599124"
+  },
+  {
+    "transaction_id": "4970cd2a-0b31-4dfc-b387-bb89518d9f07",
+    "old_category": "Utilities",
+    "new_category": "Groceries",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599127"
+  },
+  {
+    "transaction_id": "9cf3e375-5472-4777-81bf-63b1bdb7dafd",
+    "old_category": "Food & Dining",
+    "new_category": "Gifts & Donations",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599131"
+  },
+  {
+    "transaction_id": "58ce2cc3-02ca-46a5-b26a-cc1cbc09fccd",
+    "old_category": "Transfers",
+    "new_category": "Groceries",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599134"
+  },
+  {
+    "transaction_id": "18dd12fc-d306-45a6-b096-537e93939535",
+    "old_category": "Health & Wellness",
+    "new_category": "Office & Business",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599138"
+  },
+  {
+    "transaction_id": "eda63657-6734-4d82-a255-d8529f1b31ea",
+    "old_category": "Education",
+    "new_category": "Travel & Transport",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599142"
+  },
+  {
+    "transaction_id": "c001fcce-a830-4d2d-b680-2da810b77eed",
+    "old_category": "Travel & Transport",
+    "new_category": "Charity",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599145"
+  },
+  {
+    "transaction_id": "6ea094a4-8f84-4f32-b6f0-e5e5a9095429",
+    "old_category": "Shopping",
+    "new_category": "Personal Care",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599149"
+  },
+  {
+    "transaction_id": "e38eef74-222f-4fb1-893f-af409802994e",
+    "old_category": "Transfers",
+    "new_category": "Groceries",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599152"
+  },
+  {
+    "transaction_id": "02b56a8c-2b04-4500-b58d-5e51438b6b66",
+    "old_category": "Groceries",
+    "new_category": "Travel & Transport",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599156"
+  },
+  {
+    "transaction_id": "ba4971f2-75f1-4c7c-a16f-f1dbbf1afb77",
+    "old_category": "Travel & Transport",
+    "new_category": "Kids",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599159"
+  },
+  {
+    "transaction_id": "41d87283-9fdc-4c59-a5aa-88239677817c",
+    "old_category": "Office & Business",
+    "new_category": "Groceries",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599163"
+  },
+  {
+    "transaction_id": "cb00084d-04fe-47f8-a14f-e8c2a76effe6",
+    "old_category": "Home Services",
+    "new_category": "Insurance",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599166"
+  },
+  {
+    "transaction_id": "52ab31fc-e5af-4634-bd70-bdf768f42647",
+    "old_category": "Entertainment",
+    "new_category": "Insurance",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599170"
+  },
+  {
+    "transaction_id": "5d178ff1-9a0b-41f5-b9a2-7e0c25877f8a",
+    "old_category": "Education",
+    "new_category": "Food & Dining",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599173"
+  },
+  {
+    "transaction_id": "d9c56826-32e0-4626-b69e-c10261161dcb",
+    "old_category": "Shopping",
+    "new_category": "Insurance",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599177"
+  },
+  {
+    "transaction_id": "b7f70aec-e1d2-466d-8a44-9efbb5171b1e",
+    "old_category": "Transfers",
+    "new_category": "Kids",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599180"
+  },
+  {
+    "transaction_id": "86d7c1a3-6bb5-45f6-be8c-747910e454be",
+    "old_category": "Health & Wellness",
+    "new_category": "Office & Business",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599184"
+  },
+  {
+    "transaction_id": "cbd8fb15-573f-4b73-8095-3ec37e4d0d83",
+    "old_category": "Utilities",
+    "new_category": "Charity",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599187"
+  },
+  {
+    "transaction_id": "ef340a04-b74c-484a-8cc5-240f922efb61",
+    "old_category": "Transfers",
+    "new_category": "Health & Wellness",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599191"
+  },
+  {
+    "transaction_id": "68b547dc-2fd9-42a5-b03a-920df5eba0cd",
+    "old_category": "Education",
+    "new_category": "Travel & Transport",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599194"
+  },
+  {
+    "transaction_id": "212e61cf-b2c2-47ba-8ad5-2709c163909d",
+    "old_category": "Food & Dining",
+    "new_category": "Insurance",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599198"
+  },
+  {
+    "transaction_id": "67a71bf6-e823-44d3-938a-f78f461c8864",
+    "old_category": "Health & Wellness",
+    "new_category": "Income",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599204"
+  },
+  {
+    "transaction_id": "499aaf61-69b0-4c14-9994-80fa3018c8f7",
+    "old_category": "Health & Wellness",
+    "new_category": "Insurance",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599208"
+  },
+  {
+    "transaction_id": "a2fcb63e-d87a-40be-a28e-ccdb9abb7c83",
+    "old_category": "Shopping",
+    "new_category": "Pets",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599211"
+  },
+  {
+    "transaction_id": "fe7c6f2b-e0bb-4e73-bab8-26b2084e54ee",
+    "old_category": "Health & Wellness",
+    "new_category": "Education",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599215"
+  },
+  {
+    "transaction_id": "d34bf926-1bc1-4e6d-9326-d707b8e1c185",
+    "old_category": "Entertainment",
+    "new_category": "Insurance",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599218"
+  },
+  {
+    "transaction_id": "ea3d4e91-64a0-4e02-9b3e-d174f8aa0e15",
+    "old_category": "Food & Dining",
+    "new_category": "Transfers",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599222"
+  },
+  {
+    "transaction_id": "7022b41a-4124-4282-9dc8-d79d2dde412e",
+    "old_category": "Pets",
+    "new_category": "Health & Wellness",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599226"
+  },
+  {
+    "transaction_id": "d1c3f8ca-675d-4155-bbcd-d826fdb8efbc",
+    "old_category": "Shopping",
+    "new_category": "Kids",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599230"
+  },
+  {
+    "transaction_id": "4f007793-f0ab-472e-88d6-8de8af7ae070",
+    "old_category": "Groceries",
+    "new_category": "Utilities",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599233"
+  },
+  {
+    "transaction_id": "84d6ba99-d7c6-4d16-a33f-34c81a718864",
+    "old_category": "Pets",
+    "new_category": "Income",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599237"
+  },
+  {
+    "transaction_id": "d0c35aed-2d4f-4f09-9a99-1c38803f3ae0",
+    "old_category": "Utilities",
+    "new_category": "Kids",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599240"
+  },
+  {
+    "transaction_id": "6440205b-b90e-4a3e-955d-ffd345024dd4",
+    "old_category": "Home Services",
+    "new_category": "Investment",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599244"
+  },
+  {
+    "transaction_id": "6bd70c4b-ddc0-4a44-8654-e7a861c25161",
+    "old_category": "Education",
+    "new_category": "Office & Business",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599247"
+  },
+  {
+    "transaction_id": "7eb02e21-d47e-419e-9447-b9c85fe66a44",
+    "old_category": "Entertainment",
+    "new_category": "Insurance",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599250"
+  },
+  {
+    "transaction_id": "a50bc25c-2d16-4f09-922f-6dc7ed99bb9b",
+    "old_category": "Transfers",
+    "new_category": "Kids",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599254"
+  },
+  {
+    "transaction_id": "14531194-bc2c-4853-8f37-490a3fdc7d43",
+    "old_category": "Groceries",
+    "new_category": "Income",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599258"
+  },
+  {
+    "transaction_id": "d837fbd6-f375-4cc6-a4b3-a1a0d78cdd49",
+    "old_category": "Pets",
+    "new_category": "Home Services",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599263"
+  },
+  {
+    "transaction_id": "eab63a13-9999-42de-8258-57f54f9ad8a7",
+    "old_category": "Office & Business",
+    "new_category": "Utilities",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599267"
+  },
+  {
+    "transaction_id": "4d3d75b1-5710-41bc-a595-ca5f37a1e0e9",
+    "old_category": "Entertainment",
+    "new_category": "Shopping",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599271"
+  },
+  {
+    "transaction_id": "7d3bce72-1879-4e55-bed3-0dc4abea4a5a",
+    "old_category": "Utilities",
+    "new_category": "Transfers",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599275"
+  },
+  {
+    "transaction_id": "2119f2fb-037e-4e10-8a42-84a3e4c2b8f4",
+    "old_category": "Travel & Transport",
+    "new_category": "Food & Dining",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599278"
+  },
+  {
+    "transaction_id": "659e9997-9437-479e-bea5-4d6ed3de00ea",
+    "old_category": "Travel & Transport",
+    "new_category": "Office & Business",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599282"
+  },
+  {
+    "transaction_id": "0fccb8d9-b98c-410f-9ae8-4a26c1f35c7b",
+    "old_category": "Travel & Transport",
+    "new_category": "Health & Wellness",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599285"
+  },
+  {
+    "transaction_id": "8b6e8888-bbae-4433-bb10-fecf0fb17962",
+    "old_category": "Shopping",
+    "new_category": "Personal Care",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599289"
+  },
+  {
+    "transaction_id": "a7dbc55c-5d23-4bf2-8548-d66cfdc025be",
+    "old_category": "Gifts & Donations",
+    "new_category": "Charity",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599292"
+  },
+  {
+    "transaction_id": "1d76c7cb-f39d-47c5-945c-4cdad5ce77e1",
+    "old_category": "Transfers",
+    "new_category": "Personal Care",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599296"
+  },
+  {
+    "transaction_id": "31c9695b-ff6e-4a03-ade5-1fe05a834caa",
+    "old_category": "Health & Wellness",
+    "new_category": "Utilities",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599299"
+  },
+  {
+    "transaction_id": "cc0bb4f5-6f69-4e6d-86b2-8018c9b44eea",
+    "old_category": "Travel & Transport",
+    "new_category": "Investment",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599303"
+  },
+  {
+    "transaction_id": "43bfafff-dcbf-4547-b3ce-9064b0c84a29",
+    "old_category": "Groceries",
+    "new_category": "Taxes",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599306"
+  },
+  {
+    "transaction_id": "14be95bd-3d21-440a-91d7-cd72f9be55d0",
+    "old_category": "Transfers",
+    "new_category": "Utilities",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599310"
+  },
+  {
+    "transaction_id": "fd798f11-90e9-4cae-b778-f171a8f4fc17",
+    "old_category": "Transfers",
+    "new_category": "Income",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599313"
+  },
+  {
+    "transaction_id": "a0814918-b63a-4f3f-b18e-7d7168f84d45",
+    "old_category": "Shopping",
+    "new_category": "Home Services",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599316"
+  },
+  {
+    "transaction_id": "29c29b75-8939-40fd-8b72-6113b4b10d3c",
+    "old_category": "Utilities",
+    "new_category": "Health & Wellness",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599320"
+  },
+  {
+    "transaction_id": "f5451ef2-d6cf-4ed5-8ce5-1bc25c6ca287",
+    "old_category": "Shopping",
+    "new_category": "Pets",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599324"
+  },
+  {
+    "transaction_id": "a84ee10b-42de-4a31-9309-1975dbcfcf92",
+    "old_category": "Shopping",
+    "new_category": "Education",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599328"
+  },
+  {
+    "transaction_id": "74a50b86-7c83-4f6c-adaa-4d12de4bfdd4",
+    "old_category": "Groceries",
+    "new_category": "Investment",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599331"
+  },
+  {
+    "transaction_id": "632fa6b3-c5f5-449f-b913-6dbca6ff2b51",
+    "old_category": "Transfers",
+    "new_category": "Charity",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599335"
+  },
+  {
+    "transaction_id": "a437bdc8-787b-4310-9b08-7ba6e24133a4",
+    "old_category": "Shopping",
+    "new_category": "Food & Dining",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599338"
+  },
+  {
+    "transaction_id": "9e15d2ff-5c24-4b2f-a782-1f39a3e53ef7",
+    "old_category": "Utilities",
+    "new_category": "Kids",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599342"
+  },
+  {
+    "transaction_id": "9ac76879-375b-4365-985e-01235d1aac75",
+    "old_category": "Groceries",
+    "new_category": "Entertainment",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599346"
+  },
+  {
+    "transaction_id": "8bb801e5-f108-4303-9e20-d76f73a6083d",
+    "old_category": "Food & Dining",
+    "new_category": "Transfers",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599349"
+  },
+  {
+    "transaction_id": "19f3d5c7-70d5-4a1f-9ef7-62250c3c9341",
+    "old_category": "Investment",
+    "new_category": "Utilities",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599353"
+  },
+  {
+    "transaction_id": "b9dd61d3-e6c2-4511-9980-400d3ee529a3",
+    "old_category": "Pets",
+    "new_category": "Utilities",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599356"
+  },
+  {
+    "transaction_id": "b3156852-477c-4e78-9e9a-4ec4e35d3b4a",
+    "old_category": "Groceries",
+    "new_category": "Travel & Transport",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599360"
+  },
+  {
+    "transaction_id": "f34dd86f-3830-4652-9ab7-da7270eac4a0",
+    "old_category": "Groceries",
+    "new_category": "Investment",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599363"
+  },
+  {
+    "transaction_id": "47030570-9c6d-4861-8e8f-0343b0980774",
+    "old_category": "Transfers",
+    "new_category": "Pets",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599367"
+  },
+  {
+    "transaction_id": "06dc3cea-93c8-4cbe-9731-732a7f904af9",
+    "old_category": "Transfers",
+    "new_category": "Travel & Transport",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599370"
+  },
+  {
+    "transaction_id": "1b0d833b-a73b-410e-84ef-8a50f16f25eb",
+    "old_category": "Home Services",
+    "new_category": "Income",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599373"
+  },
+  {
+    "transaction_id": "5ad0796f-e3d1-4cb2-9377-533d60d79558",
+    "old_category": "Investment",
+    "new_category": "Insurance",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599377"
+  },
+  {
+    "transaction_id": "fb53a9bf-4715-43e4-9b24-6e344e02b741",
+    "old_category": "Travel & Transport",
+    "new_category": "Personal Care",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599381"
+  },
+  {
+    "transaction_id": "6622fb26-3cda-44d5-8abc-489dbc416d82",
+    "old_category": "Insurance",
+    "new_category": "Travel & Transport",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599385"
+  },
+  {
+    "transaction_id": "61d3b8cf-8af3-4461-8bde-99a117dfba3e",
+    "old_category": "Groceries",
+    "new_category": "Personal Care",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599389"
+  },
+  {
+    "transaction_id": "eae9e2f9-7b95-4eae-81b4-eebc19548e6d",
+    "old_category": "Travel & Transport",
+    "new_category": "Office & Business",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599392"
+  },
+  {
+    "transaction_id": "da4f4e4b-eb99-41cf-942f-c37422c32531",
+    "old_category": "Transfers",
+    "new_category": "Investment",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599396"
+  },
+  {
+    "transaction_id": "19e63642-c952-47a8-a973-10a20c3c4342",
+    "old_category": "Food & Dining",
+    "new_category": "Personal Care",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599399"
+  },
+  {
+    "transaction_id": "fcd89699-54cd-483c-81b4-33cca204e6fd",
+    "old_category": "Travel & Transport",
+    "new_category": "Income",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599403"
+  },
+  {
+    "transaction_id": "3bec4554-2faf-4577-ba83-dc5e926a6538",
+    "old_category": "Home Services",
+    "new_category": "Gifts & Donations",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599407"
+  },
+  {
+    "transaction_id": "46ceb415-0b34-4b44-b0d4-c9faaad5b4a9",
+    "old_category": "Entertainment",
+    "new_category": "Food & Dining",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599410"
+  },
+  {
+    "transaction_id": "88b047ef-89bc-4663-9a7e-a27a9c0da151",
+    "old_category": "Transfers",
+    "new_category": "Insurance",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599414"
+  },
+  {
+    "transaction_id": "2aa894da-9acd-4873-8bf5-74ff3bece831",
+    "old_category": "Home Services",
+    "new_category": "Taxes",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599417"
+  },
+  {
+    "transaction_id": "7a2a7f9b-3210-4406-8c94-a5db5ecaf633",
+    "old_category": "Investment",
+    "new_category": "Home Services",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599421"
+  },
+  {
+    "transaction_id": "b85be3e2-19e8-4732-8e18-1b31581efc5f",
+    "old_category": "Pets",
+    "new_category": "Personal Care",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599424"
+  },
+  {
+    "transaction_id": "10b4fd2e-5130-4792-8970-5c4c2198e899",
+    "old_category": "Food & Dining",
+    "new_category": "Pets",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599428"
+  },
+  {
+    "transaction_id": "96292d83-60b0-477f-8bcc-05fc0fb0d7db",
+    "old_category": "Shopping",
+    "new_category": "Transfers",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599431"
+  },
+  {
+    "transaction_id": "36ce5fb2-b80f-4d67-bf71-88f98667d506",
+    "old_category": "Transfers",
+    "new_category": "Income",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599435"
+  },
+  {
+    "transaction_id": "e99a2f61-a687-46d6-beff-52dfe627e610",
+    "old_category": "Charity",
+    "new_category": "Health & Wellness",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599438"
+  },
+  {
+    "transaction_id": "f09f120c-3a1f-4224-95b2-8dc4102411c2",
+    "old_category": "Travel & Transport",
+    "new_category": "Investment",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599441"
+  },
+  {
+    "transaction_id": "d1a33a0c-b24e-4f90-ac21-fe9c2c890ef9",
+    "old_category": "Office & Business",
+    "new_category": "Groceries",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599447"
+  },
+  {
+    "transaction_id": "ce7399a9-70ad-4bbd-a234-d227220c4fa4",
+    "old_category": "Entertainment",
+    "new_category": "Office & Business",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599451"
+  },
+  {
+    "transaction_id": "464709fb-a70f-4bbc-9220-5df45774510c",
+    "old_category": "Entertainment",
+    "new_category": "Travel & Transport",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599454"
+  },
+  {
+    "transaction_id": "67ddc224-fe91-444a-8056-936e33306451",
+    "old_category": "Groceries",
+    "new_category": "Transfers",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599458"
+  },
+  {
+    "transaction_id": "e088495b-09f9-48d3-a7bb-099677f0ebc4",
+    "old_category": "Transfers",
+    "new_category": "Kids",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599462"
+  },
+  {
+    "transaction_id": "8949c4b1-8c5c-4a5e-a323-3f28867ec1c8",
+    "old_category": "Transfers",
+    "new_category": "Investment",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599465"
+  },
+  {
+    "transaction_id": "22d88fbb-f820-45f5-b781-4b52cb3e7d52",
+    "old_category": "Food & Dining",
+    "new_category": "Shopping",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599468"
+  },
+  {
+    "transaction_id": "79b5f0db-47e9-4158-bee9-07fbb35aa5d6",
+    "old_category": "Travel & Transport",
+    "new_category": "Pets",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599472"
+  },
+  {
+    "transaction_id": "4d8aeff3-53af-4479-878a-5459cd106659",
+    "old_category": "Insurance",
+    "new_category": "Gifts & Donations",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599475"
+  },
+  {
+    "transaction_id": "adafced7-0b10-4626-81d5-5a0ede54c776",
+    "old_category": "Travel & Transport",
+    "new_category": "Office & Business",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599479"
+  },
+  {
+    "transaction_id": "9c07dbb4-6714-4a2a-b310-76b08aa674c0",
+    "old_category": "Pets",
+    "new_category": "Utilities",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599482"
+  },
+  {
+    "transaction_id": "54d51492-178c-4009-9077-8eef52db3134",
+    "old_category": "Insurance",
+    "new_category": "Entertainment",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599485"
+  },
+  {
+    "transaction_id": "6f95de8a-1cb6-4c44-811f-e334afdf498f",
+    "old_category": "Entertainment",
+    "new_category": "Kids",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599489"
+  },
+  {
+    "transaction_id": "2c6c5aee-8b3c-4ec3-92af-427f165507bb",
+    "old_category": "Entertainment",
+    "new_category": "Income",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599492"
+  },
+  {
+    "transaction_id": "591e5b69-4483-4f5b-8091-086d189354da",
+    "old_category": "Transfers",
+    "new_category": "Kids",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599496"
+  },
+  {
+    "transaction_id": "1070b7f0-325e-4aef-a249-dbb1858e765a",
+    "old_category": "Groceries",
+    "new_category": "Shopping",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599499"
+  },
+  {
+    "transaction_id": "b98be3b9-1a2a-4896-a85d-2196462b3e38",
+    "old_category": "Insurance",
+    "new_category": "Pets",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599503"
+  },
+  {
+    "transaction_id": "03b7d366-efdb-484a-b0e8-8c64b965181e",
+    "old_category": "Transfers",
+    "new_category": "Insurance",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599506"
+  },
+  {
+    "transaction_id": "2b59f029-7b1b-4142-9f7d-c2e41fe9b9ec",
+    "old_category": "Travel & Transport",
+    "new_category": "Transfers",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599510"
+  },
+  {
+    "transaction_id": "bf95a1c7-9bad-441c-a496-cc0bc52b2649",
+    "old_category": "Education",
+    "new_category": "Food & Dining",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599513"
+  },
+  {
+    "transaction_id": "10a4504f-e48a-4558-9aa3-6f83a2dd9b54",
+    "old_category": "Health & Wellness",
+    "new_category": "Investment",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599517"
+  },
+  {
+    "transaction_id": "f540335a-2a1b-4122-a462-94f9b0299e0c",
+    "old_category": "Pets",
+    "new_category": "Entertainment",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599520"
+  },
+  {
+    "transaction_id": "e707894d-92d7-408e-89c5-47af0cb7799a",
+    "old_category": "Gifts & Donations",
+    "new_category": "Groceries",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599524"
+  },
+  {
+    "transaction_id": "f6bc4bb5-a718-4151-8f54-755e96d14808",
+    "old_category": "Investment",
+    "new_category": "Entertainment",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599528"
+  },
+  {
+    "transaction_id": "b21bd3e3-ede7-47b2-b9fd-04908437856e",
+    "old_category": "Pets",
+    "new_category": "Office & Business",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599531"
+  },
+  {
+    "transaction_id": "9d7625f0-c477-4f39-8d90-a71c9625f737",
+    "old_category": "Health & Wellness",
+    "new_category": "Home Services",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599535"
+  },
+  {
+    "transaction_id": "c848e289-de91-4de2-abd2-197d52eacc95",
+    "old_category": "Food & Dining",
+    "new_category": "Insurance",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599538"
+  },
+  {
+    "transaction_id": "98adf981-7a79-47b7-b586-7105daad1527",
+    "old_category": "Pets",
+    "new_category": "Gifts & Donations",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599542"
+  },
+  {
+    "transaction_id": "fa908211-47e2-44da-bd3c-0d5d376a31a9",
+    "old_category": "Insurance",
+    "new_category": "Utilities",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599545"
+  },
+  {
+    "transaction_id": "0462ca16-92dc-4881-94ad-7774da9fe363",
+    "old_category": "Education",
+    "new_category": "Groceries",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599549"
+  },
+  {
+    "transaction_id": "dd6d38f3-bd1f-44a9-97ee-23c5a3316a7f",
+    "old_category": "Travel & Transport",
+    "new_category": "Investment",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599552"
+  },
+  {
+    "transaction_id": "b90e9178-8c92-47fb-97ba-a1bb173f5bb8",
+    "old_category": "Shopping",
+    "new_category": "Gifts & Donations",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599556"
+  },
+  {
+    "transaction_id": "7191ad61-7158-4890-accd-bfa0f6819bbb",
+    "old_category": "Groceries",
+    "new_category": "Charity",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599559"
+  },
+  {
+    "transaction_id": "d975ef2b-883f-4b72-8a7f-71d4c32a076c",
+    "old_category": "Food & Dining",
+    "new_category": "Personal Care",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599562"
+  },
+  {
+    "transaction_id": "1cbcf7da-a084-4ce6-b948-674ed4c774bc",
+    "old_category": "Travel & Transport",
+    "new_category": "Shopping",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599566"
+  },
+  {
+    "transaction_id": "8aa3d1d5-07c6-40c3-bfaa-b757fb09f87f",
+    "old_category": "Entertainment",
+    "new_category": "Gifts & Donations",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599569"
+  },
+  {
+    "transaction_id": "e21faeea-643c-412f-bcee-caeaf7843be9",
+    "old_category": "Utilities",
+    "new_category": "Investment",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599573"
+  },
+  {
+    "transaction_id": "4da23324-0ee8-4a48-a8ef-c3867c3e8b7f",
+    "old_category": "Education",
+    "new_category": "Shopping",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599576"
+  },
+  {
+    "transaction_id": "afe0edaa-4774-46ea-b643-718f30a6a727",
+    "old_category": "Education",
+    "new_category": "Home Services",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599580"
+  },
+  {
+    "transaction_id": "555725f5-54f9-4f32-a5c6-e44a49ad2e06",
+    "old_category": "Shopping",
+    "new_category": "Office & Business",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599583"
+  },
+  {
+    "transaction_id": "5aabd6fd-b303-471a-b5e5-37587282d016",
+    "old_category": "Shopping",
+    "new_category": "Personal Care",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599586"
+  },
+  {
+    "transaction_id": "27267a31-06b0-4f81-9604-cb1c44d2a39c",
+    "old_category": "Entertainment",
+    "new_category": "Charity",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599590"
+  },
+  {
+    "transaction_id": "4b9f5b85-af0d-48de-bea1-9e832352aed3",
+    "old_category": "Entertainment",
+    "new_category": "Shopping",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599593"
+  },
+  {
+    "transaction_id": "6f9efdc8-e0aa-4cfe-bc44-eeb4cfeda4ae",
+    "old_category": "Food & Dining",
+    "new_category": "Gifts & Donations",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599597"
+  },
+  {
+    "transaction_id": "929fd851-9d72-4633-9211-defc6b5f8b2d",
+    "old_category": "Food & Dining",
+    "new_category": "Taxes",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599600"
+  },
+  {
+    "transaction_id": "4b0aa86d-9eb3-4e36-97a5-1550272c4e25",
+    "old_category": "Education",
+    "new_category": "Insurance",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599604"
+  },
+  {
+    "transaction_id": "58498ed6-099a-407b-84e9-dd4c8fa6e3eb",
+    "old_category": "Insurance",
+    "new_category": "Shopping",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599607"
+  },
+  {
+    "transaction_id": "ba6750c5-ae9b-4d23-99e3-db72205d10e2",
+    "old_category": "Utilities",
+    "new_category": "Kids",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599611"
+  },
+  {
+    "transaction_id": "fde48b7c-bbe8-49c4-af8e-c7f87a1870cd",
+    "old_category": "Education",
+    "new_category": "Food & Dining",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599615"
+  },
+  {
+    "transaction_id": "9047a22c-af86-4bda-b9e6-53976b4cc28b",
+    "old_category": "Transfers",
+    "new_category": "Gifts & Donations",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599618"
+  },
+  {
+    "transaction_id": "44e92300-1236-4c15-946f-c666e6381afd",
+    "old_category": "Education",
+    "new_category": "Kids",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599622"
+  },
+  {
+    "transaction_id": "4783e1b1-5ea9-43c9-942e-2d816048e732",
+    "old_category": "Education",
+    "new_category": "Personal Care",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599625"
+  },
+  {
+    "transaction_id": "457d9cc6-9a7c-414e-8a3c-4d9570c22774",
+    "old_category": "Health & Wellness",
+    "new_category": "Utilities",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599638"
+  },
+  {
+    "transaction_id": "a24598dd-cc73-4ed2-b084-a958b0565c88",
+    "old_category": "Education",
+    "new_category": "Travel & Transport",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599642"
+  },
+  {
+    "transaction_id": "9c1ce3ea-691d-46dc-b022-dbbb2d536da5",
+    "old_category": "Health & Wellness",
+    "new_category": "Travel & Transport",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599645"
+  },
+  {
+    "transaction_id": "00763fb7-9650-4f64-bb61-b9ca831609c2",
+    "old_category": "Utilities",
+    "new_category": "Personal Care",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599649"
+  },
+  {
+    "transaction_id": "cb7f2b7f-3d85-4aae-923a-b7c309af5976",
+    "old_category": "Education",
+    "new_category": "Investment",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599653"
+  },
+  {
+    "transaction_id": "827b7d19-290d-4013-addb-0b8c0ae39b1c",
+    "old_category": "Gifts & Donations",
+    "new_category": "Entertainment",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599656"
+  },
+  {
+    "transaction_id": "02df00b2-723b-4007-a9bd-7701ebcd7db5",
+    "old_category": "Food & Dining",
+    "new_category": "Office & Business",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599660"
+  },
+  {
+    "transaction_id": "06f76713-7e06-4084-a4ad-7b38fbbc61f4",
+    "old_category": "Health & Wellness",
+    "new_category": "Entertainment",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599663"
+  },
+  {
+    "transaction_id": "0be4312f-a42b-4171-a1e4-04e1b3676498",
+    "old_category": "Utilities",
+    "new_category": "Groceries",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599667"
+  },
+  {
+    "transaction_id": "a6121180-80ab-4868-b7e9-99733435ae08",
+    "old_category": "Utilities",
+    "new_category": "Pets",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599670"
+  },
+  {
+    "transaction_id": "34f0acee-f4ff-4917-887f-24b54c1f78aa",
+    "old_category": "Home Services",
+    "new_category": "Income",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599674"
+  },
+  {
+    "transaction_id": "ab5b5115-d1c9-40ba-928b-e26ee0521b79",
+    "old_category": "Travel & Transport",
+    "new_category": "Home Services",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599677"
+  },
+  {
+    "transaction_id": "a8a53fb4-b0a9-4e97-be0f-16d244454b51",
+    "old_category": "Entertainment",
+    "new_category": "Gifts & Donations",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599681"
+  },
+  {
+    "transaction_id": "98808a25-e130-4760-8cfb-39518407db01",
+    "old_category": "Office & Business",
+    "new_category": "Food & Dining",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599684"
+  },
+  {
+    "transaction_id": "aa7f3335-75c0-4e08-bb49-873045f92961",
+    "old_category": "Shopping",
+    "new_category": "Home Services",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599687"
+  },
+  {
+    "transaction_id": "09c29616-2b9c-45d4-9899-b16a651d8784",
+    "old_category": "Office & Business",
+    "new_category": "Insurance",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599691"
+  },
+  {
+    "transaction_id": "21534c54-9591-433d-b83e-6451c4a4b116",
+    "old_category": "Food & Dining",
+    "new_category": "Personal Care",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599694"
+  },
+  {
+    "transaction_id": "283dbec5-1bce-4bab-a69a-af7a25afa327",
+    "old_category": "Utilities",
+    "new_category": "Kids",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599698"
+  },
+  {
+    "transaction_id": "de43796c-c700-4a77-b098-5585a0ee8cd9",
+    "old_category": "Shopping",
+    "new_category": "Taxes",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599701"
+  },
+  {
+    "transaction_id": "5a1c78fb-36d1-4dc6-a3d6-5d7de2b6fd85",
+    "old_category": "Shopping",
+    "new_category": "Education",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599705"
+  },
+  {
+    "transaction_id": "3197fa15-bb63-4254-9f7b-7ea50a141a20",
+    "old_category": "Pets",
+    "new_category": "Gifts & Donations",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599708"
+  },
+  {
+    "transaction_id": "f900d3f6-2f87-4386-a370-e57eab1b28db",
+    "old_category": "Shopping",
+    "new_category": "Health & Wellness",
+    "updated_by": "user",
+    "updated_at": "2026-01-11T12:50:48.599711"
+  }
+]

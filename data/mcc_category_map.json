@@ -1,0 +1,127 @@
+[
+  {
+    "mcc": "5812",
+    "category_name": "Food & Dining",
+    "mcc_description": "Eating places and Restaurants"
+  },
+  {
+    "mcc": "5814",
+    "category_name": "Food & Dining",
+    "mcc_description": "Fast Food Restaurants"
+  },
+  {
+    "mcc": "5462",
+    "category_name": "Food & Dining",
+    "mcc_description": "Bakeries"
+  },
+  {
+    "mcc": "5411",
+    "category_name": "Groceries",
+    "mcc_description": "Grocery Stores, Supermarkets"
+  },
+  {
+    "mcc": "5422",
+    "category_name": "Groceries",
+    "mcc_description": "Freezer and Locker Meat Provisioners"
+  },
+  {
+    "mcc": "4121",
+    "category_name": "Travel & Transport",
+    "mcc_description": "Taxicabs and Limousines"
+  },
+  {
+    "mcc": "5541",
+    "category_name": "Travel & Transport",
+    "mcc_description": "Service Stations and Automated Fuel Dispensers"
+  },
+  {
+    "mcc": "4789",
+    "category_name": "Travel & Transport",
+    "mcc_description": "Transportation Services, Not Elsewhere Classified"
+  },
+  {
+    "mcc": "4511",
+    "category_name": "Travel & Transport",
+    "mcc_description": "Airlines and Air Carriers"
+  },
+  {
+    "mcc": "4814",
+    "category_name": "Utilities",
+    "mcc_description": "Telecommunication Services"
+  },
+  {
+    "mcc": "4900",
+    "category_name": "Utilities",
+    "mcc_description": "Electric, Gas, Sanitary and Water Utilities"
+  },
+  {
+    "mcc": "5912",
+    "category_name": "Health & Wellness",
+    "mcc_description": "Drug Stores and Pharmacies"
+  },
+  {
+    "mcc": "8011",
+    "category_name": "Health & Wellness",
+    "mcc_description": "Doctors and Physicians"
+  },
+  {
+    "mcc": "7991",
+    "category_name": "Health & Wellness",
+    "mcc_description": "Tourist Attractions and Exhibits (Gyms often miscategorized here or 7997)"
+  },
+  {
+    "mcc": "7832",
+    "category_name": "Entertainment",
+    "mcc_description": "Motion Picture Theaters"
+  },
+  {
+    "mcc": "5816",
+    "category_name": "Entertainment",
+    "mcc_description": "Digital Goods: Games"
+  },
+  {
+    "mcc": "5311",
+    "category_name": "Shopping",
+    "mcc_description": "Department Stores"
+  },
+  {
+    "mcc": "5732",
+    "category_name": "Shopping",
+    "mcc_description": "Electronics Stores"
+  },
+  {
+    "mcc": "8211",
+    "category_name": "Education",
+    "mcc_description": "Elementary and Secondary Schools"
+  },
+  {
+    "mcc": "8299",
+    "category_name": "Education",
+    "mcc_description": "Schools and Educational Services NEC"
+  },
+  {
+    "mcc": "5995",
+    "category_name": "Pets",
+    "mcc_description": "Pet Shops, Pet Fruits, and Supplies"
+  },
+  {
+    "mcc": "0742",
+    "category_name": "Pets",
+    "mcc_description": "Veterinary Services"
+  },
+  {
+    "mcc": "6300",
+    "category_name": "Insurance",
+    "mcc_description": "Insurance Sales, Underwriting, and Premiums"
+  },
+  {
+    "mcc": "6011",
+    "category_name": "Transfers",
+    "mcc_description": "Financial Institutions \u2013 Automated Cash Disbursements"
+  },
+  {
+    "mcc": "6211",
+    "category_name": "Investment",
+    "mcc_description": "Security Brokers/Dealers"
+  }
+]

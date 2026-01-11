@@ -1,0 +1,102 @@
+[
+  {
+    "category_id": 1,
+    "category_name": "Income",
+    "description": "Salary, refunds, cashback, and other credits"
+  },
+  {
+    "category_id": 2,
+    "category_name": "Food & Dining",
+    "description": "Restaurants, cafes, food delivery"
+  },
+  {
+    "category_id": 3,
+    "category_name": "Groceries",
+    "description": "Supermarkets, local grocery stores"
+  },
+  {
+    "category_id": 4,
+    "category_name": "Travel & Transport",
+    "description": "Flights, trains, cabs, fuel, tolls"
+  },
+  {
+    "category_id": 5,
+    "category_name": "Utilities",
+    "description": "Electricity, water, gas, internet, mobile bills"
+  },
+  {
+    "category_id": 6,
+    "category_name": "Shopping",
+    "description": "Clothing, electronics, e-commerce, department stores"
+  },
+  {
+    "category_id": 7,
+    "category_name": "Health & Wellness",
+    "description": "Pharmacies, hospitals, gyms, checkups"
+  },
+  {
+    "category_id": 8,
+    "category_name": "Entertainment",
+    "description": "Movies, streaming services, events, gaming"
+  },
+  {
+    "category_id": 9,
+    "category_name": "Transfers",
+    "description": "P2P transfers, wallet top-ups, family support"
+  },
+  {
+    "category_id": 10,
+    "category_name": "Investment",
+    "description": "Stocks, mutual funds, gold, crypto, savings"
+  },
+  {
+    "category_id": 11,
+    "category_name": "Education",
+    "description": "School fees, courses, books, tuition"
+  },
+  {
+    "category_id": 12,
+    "category_name": "Pets",
+    "description": "Pet food, vet visits, grooming"
+  },
+  {
+    "category_id": 13,
+    "category_name": "Home Services",
+    "description": "Repairs, cleaning, decor, furniture"
+  },
+  {
+    "category_id": 14,
+    "category_name": "Charity",
+    "description": "Donations, NGOs, religious contributions"
+  },
+  {
+    "category_id": 15,
+    "category_name": "Insurance",
+    "description": "Life, health, car, home insurance premiums"
+  },
+  {
+    "category_id": 16,
+    "category_name": "Taxes",
+    "description": "Income tax, property tax, GST payments"
+  },
+  {
+    "category_id": 17,
+    "category_name": "Office & Business",
+    "description": "Co-working, software subscriptions, office supplies"
+  },
+  {
+    "category_id": 18,
+    "category_name": "Gifts & Donations",
+    "description": "Personal gifts, wedding envelopes"
+  },
+  {
+    "category_id": 19,
+    "category_name": "Kids",
+    "description": "Toys, baby products, allowances"
+  },
+  {
+    "category_id": 20,
+    "category_name": "Personal Care",
+    "description": "Salon, spa, cosmetics, grooming products"
+  }
+]

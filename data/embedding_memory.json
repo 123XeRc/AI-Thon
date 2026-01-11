@@ -1,0 +1,146 @@
+[
+  {
+    "pattern_text": "uber ride payment",
+    "category_name": "Travel & Transport",
+    "embedding": [],
+    "usage_count": 19,
+    "first_seen": "2025-06-29T12:50:48.487651",
+    "last_seen": "2025-12-23T12:50:48.487663"
+  },
+  {
+    "pattern_text": "netflix subscription",
+    "category_name": "Entertainment",
+    "embedding": [],
+    "usage_count": 41,
+    "first_seen": "2025-10-31T12:50:48.487669",
+    "last_seen": "2025-12-27T12:50:48.487673"
+  },
+  {
+    "pattern_text": "salary credit",
+    "category_name": "Income",
+    "embedding": [],
+    "usage_count": 10,
+    "first_seen": "2025-11-15T12:50:48.487676",
+    "last_seen": "2025-12-25T12:50:48.487679"
+  },
+  {
+    "pattern_text": "zomato order",
+    "category_name": "Food & Dining",
+    "embedding": [],
+    "usage_count": 63,
+    "first_seen": "2025-07-08T12:50:48.487681",
+    "last_seen": "2026-01-02T12:50:48.487684"
+  },
+  {
+    "pattern_text": "amazon purchase",
+    "category_name": "Shopping",
+    "embedding": [],
+    "usage_count": 20,
+    "first_seen": "2025-11-03T12:50:48.487687",
+    "last_seen": "2025-12-27T12:50:48.487689"
+  },
+  {
+    "pattern_text": "electricity bill payment",
+    "category_name": "Utilities",
+    "embedding": [],
+    "usage_count": 38,
+    "first_seen": "2025-11-11T12:50:48.487692",
+    "last_seen": "2025-12-27T12:50:48.487694"
+  },
+  {
+    "pattern_text": "gym membership fee",
+    "category_name": "Health & Wellness",
+    "embedding": [],
+    "usage_count": 100,
+    "first_seen": "2025-10-15T12:50:48.487697",
+    "last_seen": "2025-12-30T12:50:48.487699"
+  },
+  {
+    "pattern_text": "grocery shopping",
+    "category_name": "Groceries",
+    "embedding": [],
+    "usage_count": 52,
+    "first_seen": "2025-09-09T12:50:48.487702",
+    "last_seen": "2026-01-02T12:50:48.487704"
+  },
+  {
+    "pattern_text": "school fees payment",
+    "category_name": "Education",
+    "embedding": [],
+    "usage_count": 46,
+    "first_seen": "2025-08-09T12:50:48.487707",
+    "last_seen": "2026-01-03T12:50:48.487709"
+  },
+  {
+    "pattern_text": "pet food store",
+    "category_name": "Pets",
+    "embedding": [],
+    "usage_count": 1,
+    "first_seen": "2025-09-17T12:50:48.487712",
+    "last_seen": "2025-12-27T12:50:48.487714"
+  },
+  {
+    "pattern_text": "life insurance premium",
+    "category_name": "Insurance",
+    "embedding": [],
+    "usage_count": 62,
+    "first_seen": "2025-08-11T12:50:48.487717",
+    "last_seen": "2025-12-25T12:50:48.487719"
+  },
+  {
+    "pattern_text": "house rent",
+    "category_name": "Home Services",
+    "embedding": [],
+    "usage_count": 19,
+    "first_seen": "2025-09-27T12:50:48.487722",
+    "last_seen": "2026-01-03T12:50:48.487724"
+  },
+  {
+    "pattern_text": "charity donation",
+    "category_name": "Charity",
+    "embedding": [],
+    "usage_count": 68,
+    "first_seen": "2025-07-20T12:50:48.487727",
+    "last_seen": "2026-01-09T12:50:48.487729"
+  },
+  {
+    "pattern_text": "gift for friend",
+    "category_name": "Gifts & Donations",
+    "embedding": [],
+    "usage_count": 38,
+    "first_seen": "2025-07-16T12:50:48.487732",
+    "last_seen": "2025-12-22T12:50:48.487735"
+  },
+  {
+    "pattern_text": "tax payment",
+    "category_name": "Taxes",
+    "embedding": [],
+    "usage_count": 11,
+    "first_seen": "2025-07-02T12:50:48.487737",
+    "last_seen": "2025-12-27T12:50:48.487740"
+  },
+  {
+    "pattern_text": "office supplies",
+    "category_name": "Office & Business",
+    "embedding": [],
+    "usage_count": 43,
+    "first_seen": "2025-08-16T12:50:48.487743",
+    "last_seen": "2026-01-08T12:50:48.487745"
+  },
+  {
+    "pattern_text": "baby diapers",
+    "category_name": "Kids",
+    "embedding": [],
+    "usage_count": 88,
+    "first_seen": "2025-11-04T12:50:48.487748",
+    "last_seen": "2026-01-06T12:50:48.487750"
+  },
+  {
+    "pattern_text": "haircut salon",
+    "category_name": "Personal Care",
+    "embedding": [],
+    "usage_count": 95,
+    "first_seen": "2025-07-08T12:50:48.487753",
+    "last_seen": "2025-12-25T12:50:48.487755"
+  }
+]

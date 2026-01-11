@@ -1,0 +1,3 @@
+okay now lets make api of this, first api will be categorization, input came and it categorizes and give all information in backend so that i can show in frotend easily and then second api to fetch all categorized transaction history from backend so that in UI I can show it as insights or something like that, it can also have filters like show for this month or yearly, or any date
+
+so make that for me
