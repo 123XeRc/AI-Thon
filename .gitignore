@@ -1,0 +1,43 @@
+# Python build / cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Project Specific
+ budget_data/
+test.ipynb
+*.ipynb_checkpoints/
+*.ipynb
+
+# Environment / Secrets
+ .env
+*.env
+.env.local
+.env.*.local
+
+# Logs
+ *.log
+logs/
+debug.log
+
+# Editor folders
+ .vscode/
+.idea/
+*.code-workspace
+
+# OS / System Files
+ Thumbs.db
+.DS_Store
+*.swp
+*.swo
+
+# FastAPI / Uvicorn
+ *.pid
