@@ -62,14 +62,11 @@ async def generate_budget_from_income(income):
     )
     response=decode_json(raw_response['content'])
     
-    # print(response)
     return response
 
 
 async def analyze_budget(transactions, budget):
 
-    # print(transactions)
-    # print(budget)
     prompt = USER_ANALYSIS_TEMPLATE.format(
         budget=budget,
         transactions=transactions
